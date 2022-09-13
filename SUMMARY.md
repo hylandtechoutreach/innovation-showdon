@@ -1,1 +1,1 @@
-- [Follow-Along Activity](FollowAlong.md)
+- [Competition Details](CompetitionDetails.md)
