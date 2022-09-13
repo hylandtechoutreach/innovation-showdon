@@ -109,9 +109,9 @@ The presentation should follow these guidelines:
 ### LOCATION
 For _in-person_ attendees, the second round will be held at **this address**:
 
-Hyland Building 3\
-28105 Clemens Rd.\
-Westlake, OH\
+Hyland Building 3  
+28105 Clemens Rd.  
+Westlake, OH  
 44145
 
 _Virtual attendees_ will join via Zoom; a meeting link will be sent prior to the day of the event.
