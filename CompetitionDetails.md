@@ -88,7 +88,7 @@ Teams who are moving on will receive notification by **5PM ET Monday, October 31
 If you make it past the first round, you'll be able to start preparing for the final showdown! Teams will work on creating a product demonstration of their innovative idea, which will be given to a panel of judges on **Wednesday, November 16 from 10AM-2PM ET** at Hyland’s Headquarters and via Zoom.
 
 ### MENTOR MEETING
-Once you receive notification that your team is moving to the Final Round, <ins>your team must reach out to your Mentor to schedule a meeting where you will come up with a plan for your final presentation</ins>
+Once you receive notification that your team is moving to the Final Round, <ins>your team must reach out to your Mentor to schedule a meeting where you will come up with a plan for your final presentation</ins>.
 
 - This meeting needs to happen by **Monday, November 4**
 - The meeting can be in-person at your school, or via Zoom
