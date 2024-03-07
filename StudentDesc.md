@@ -1,5 +1,5 @@
 # Hyland's High School Innovation Showdown
 Welcome to the Innovation Showdown website!
 
-## Competition Details
-[Click here to view the full competition details.](CompetitionDetails.md)
+## Discord Use
+[Click here to see how the competition will use Discord.](DiscordUse.md)
