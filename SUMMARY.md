@@ -1,1 +1,2 @@
-- [Competition Details](CompetitionDetails.md)
+- [Innovation Showdown](StudentDesc.md)
+- [Discord Use](DiscordUse.md)
